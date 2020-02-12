@@ -1,0 +1,21 @@
+#Z {
+    font-size: x-large;
+    float: left;
+    margin-right: 5px;
+}
+body{
+    background-color: aqua;
+}
+.ZebraPic {
+    height: 15%;
+    width: 15%;
+}
+#caption {
+    background: black;
+    color: blanchedalmond;
+    width: 30%;
+    text-align: center;
+}
+section {
+    align-items: center;
+}
